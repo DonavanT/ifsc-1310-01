@@ -87,7 +87,7 @@ html {
   
   .post figure img {
   border: 10px solid #D96D55
-  padding:4px;
+  padding: 4px;
   border-radius:4px;
   }
   
@@ -100,8 +100,8 @@ html {
   }
   /*Attribute Selector */
   aside[role="complementary"]{
-  background color:#A6BF6F;
-  color:#F2C879;
+  background color:#A6BF6F
+  color:#F2C879
   padding:1.4rem;
   }
   
